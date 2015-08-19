@@ -15,6 +15,7 @@ public class HelloDao {
 	
 	public void hello(){
 		System.out.println("HelloDao : hello");
+		System.out.println("helloservice");
 	}
 
 }
